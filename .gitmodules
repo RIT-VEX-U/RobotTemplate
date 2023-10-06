@@ -1,3 +1,4 @@
 [submodule "core"]
 	path = core
 	url = ../../RIT-VEX-U/Core.git
+	branch = main
