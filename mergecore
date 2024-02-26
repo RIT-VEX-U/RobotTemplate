@@ -1,0 +1,3 @@
+#!/bin/sh
+
+git subtree merge --prefix=core main
